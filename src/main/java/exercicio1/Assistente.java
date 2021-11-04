@@ -1,3 +1,5 @@
+package exercicio1;
+
 public class Assistente extends Funcionario {
 
     private int matricula;
@@ -17,8 +19,9 @@ public class Assistente extends Funcionario {
     public void exibeDados() {
         System.out.println("Matrícula: " + getMatricula());
         System.out.println("Nome: " + getNome());
-        System.out.println("Cpf: "  + getCpf());
+        System.out.println("Cpf: " + getCpf());
         System.out.println("Salário: " + getSalario());
 
     }
 }
+
