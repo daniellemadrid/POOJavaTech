@@ -1,6 +1,8 @@
-package exercicio2;
+package testeExercicio2;
 
-public class Main {
+import exercicio2.*;
+
+public class TesteAnimaisPessoas {
 
     public static void main(String[] args){
         Animal animal = new Animal("lilu", "vaca");

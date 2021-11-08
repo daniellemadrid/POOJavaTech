@@ -1,6 +1,11 @@
-package exercicio3;
+package testeExercicio3;
 
-public class Main {
+import exercicio3.CamaroteSuperior;
+import exercicio3.Ingresso;
+import exercicio3.Normal;
+import exercicio3.Vip;
+
+public class TesteIngresso {
 
     public static void main(String[] args){
         Ingresso ingresso = new Ingresso(100);

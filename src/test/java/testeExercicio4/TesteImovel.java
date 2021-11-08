@@ -1,6 +1,11 @@
-package exercicio4;
+package testeExercicio4;
 
-public class Main {
+import exercicio4.Imovel;
+import exercicio4.Novo;
+import exercicio4.Velho;
+
+public class TesteImovel {
+
     public static void main(String[] args) {
         Imovel imovel = new Imovel("Rua Andradas", 100000);
         Novo novo = new Novo("Avenida Bento Gonçalves", 300000, 5000);
