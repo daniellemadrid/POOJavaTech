@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class TesteImovel {
 
     @Test
-    public void deveriaMostrarOsDadosDoImovell() {
+    public void deveriaMostrarOsDadosDoImovel() {
         Imovel imovel = new Imovel("Rua Andradas", 100000);
         Novo novo = new Novo("Avenida Bento Gonçalves", 300000, 5000);
         Velho velho = new Velho("Sol Nascente", 150000, 30000);
