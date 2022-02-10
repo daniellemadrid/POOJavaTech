@@ -14,9 +14,11 @@ public class Circulo extends Figura {
     public double getRaio(){
         return raio;
     }
+
     public void setRaio(double raio){
         this.raio = raio;
     }
+
     @Override
     public String toString(){
         return "Circulo [raio=" + raio + ", cor=" + super.getCor() + "]";

@@ -7,9 +7,11 @@ public abstract class  Figura {
         super();
         this.cor = cor;
     }
+
     public Figura (){
 
     }
+
     public String getCor() {
         return cor;
     }
