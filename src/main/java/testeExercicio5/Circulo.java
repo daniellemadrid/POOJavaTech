@@ -1,4 +1,4 @@
-package exercicio5;
+package testeExercicio5;
 
 public class Circulo extends Figura {
     private double raio;
