@@ -1,4 +1,4 @@
-package testeExercicio5;
+package exercicio5;
 
 public abstract class  Figura {
     private String cor;

@@ -1,4 +1,4 @@
-package testeExercicio5;
+package exercicio5;
 
 public class Retangulo extends Figura {
     private double lado1;

@@ -1,4 +1,4 @@
-package testeExercicio5;
+package exercicio5;
 
 public class Quadrado extends Retangulo{
     public Quadrado(){
